@@ -1,6 +1,6 @@
 baseURL = "https://amanogawasubaru.moe/"
 locale = "en-us"
-title = "Amanogawa Subaru's personal website"
+title = "amanogawa subaru's personal website"
 theme = "nojs"
 
 [[menus.main]]
