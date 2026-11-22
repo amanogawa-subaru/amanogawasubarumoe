@@ -1,0 +1,4 @@
+baseURL = "https://amanogawasubaru.moe/"
+languageCode = "en-us"
+title = "Amanogawa Subaru's personal website"
+theme = "nojs"
