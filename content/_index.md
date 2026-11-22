@@ -4,7 +4,7 @@ draft = false
 title = 'Welcome to my site!'
 +++
 
-# I'm Subaru (昴). 
+# I'm Amanogawa Subaru (天乃川　昴). 
 
 I'm into a lot of things. 
 
