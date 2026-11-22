@@ -1,4 +1,24 @@
 baseURL = "https://amanogawasubaru.moe/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Amanogawa Subaru's personal website"
 theme = "nojs"
+
+[[menus.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[menus.main]]
+  name = "Workbench"
+  pageRef = "/workbench"
+  weight = 20
+
+[[menus.main]]
+  name = "Interests"
+  pageRef = "/interests"
+  weight = 30
+
+[[menus.main]]
+  name = "Writing"
+  pageRef = "/writing"
+  weight = 40
